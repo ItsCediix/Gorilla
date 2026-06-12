@@ -1,0 +1,22 @@
+[1] PricewaterhouseCoopers (2019) Strategische Marktanalyse zur Reduzierung von Abhängigkeiten von einzelnen Software-Anbietern. Berlin: Bundesministerium des Innern, für Bau und Heimat (BMI).
+
+[2] Bundesagentur für Arbeit (2023): Jahreszahlen 2023 – Statistik der Bundesagentur für Arbeit (Familienkasse), [online] Nürnberg: Bundesagentur für Arbeit
+
+[3] Deutscher Bundestag (2026): Schriftliche Fragen mit den in der Woche vom 2. Februar 2026 eingegangenen Antworten der Bundesregierung, Drucksache 21/4006, 21. Wahlperiode, [online] Berlin: Deutscher Bundestag
+Wachstum 2023->2024: 26.84% Wachstum 2024->2025: 38.46% Durchschnittliches jährliches Wachstum (CAGR): 32.52% Projektion 2030: 1,967,601,430.49 € Projektion 2030 in Milliarden: 1.97 Mrd. €
+
+[4] Kolain, M. (2025): Hindernisse auf dem Weg zu einer souveränen Cloud-Infrastruktur der deutschen Verwaltung. Whitepaper, Center for IT-Security, Privacy and Accountability (CISPA) / CII. Online verfügbar unter: security-insider.de (Abruf: 2025).
+
+[5] Bundesministerium des Innern, für Bau und Heimat (BMI) (2019): Strategische Marktanalyse zur Reduzierung von Abhängigkeiten von einzelnen Softwareanbietern. Berlin: BMI.
+
+[6] Bitkom e.V. (2023): Souveränität und Abhängigkeit bei Digitalimporten. Berlin: Bitkom e.V. Online verfügbar unter: bitkom.org
+
+[7] ZDFheute (2025): Abhängigkeit von Microsoft: Bund zahlt fast eine halbe Milliarde Euro. Mainz: Zweites Deutsches Fernsehen. Online verfügbar unter: zdf.de 
+
+[8] SIKO (IT-Sicherheitskonferenz) (2023): Herausforderungen der Interoperabilität in der öffentlichen Verwaltung. Berlin: SIKO Press
+
+[9] PwC (PricewaterhouseCoopers) (2020): Marktanalyse zur Digitalen Souveränität: Fokus Cloud-Dienste. Frankfurt am Main: PwC GmbH.
+
+[10] KGSt (Kommunale Gemeinschaftsstelle für Verwaltungsmanagement) (2022): Digitale Souveränität in Kommunen: Strategien und Handlungsfelder. Köln: KGSt.
+
+[11] Office.eu (2026): Office.eu. Online verfügbar unter: https://office.eu/ [Zuletzt abgerufen am 10.06.2026].
